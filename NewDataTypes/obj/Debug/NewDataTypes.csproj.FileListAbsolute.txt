@@ -4,3 +4,7 @@ C:\Users\User\Desktop\NewDataTypes\NewDataTypes\bin\Debug\NewDataTypes.exe
 C:\Users\User\Desktop\NewDataTypes\NewDataTypes\bin\Debug\NewDataTypes.pdb
 C:\Users\User\Desktop\NewDataTypes\NewDataTypes\obj\Debug\NewDataTypes.exe
 C:\Users\User\Desktop\NewDataTypes\NewDataTypes\obj\Debug\NewDataTypes.pdb
+E:\C#\Projects\NewDataTypes\NewDataTypes\bin\Debug\NewDataTypes.exe.config
+E:\C#\Projects\NewDataTypes\NewDataTypes\obj\Debug\NewDataTypes.exe
+E:\C#\Projects\NewDataTypes\NewDataTypes\obj\Debug\NewDataTypes.pdb
+E:\C#\Projects\NewDataTypes\NewDataTypes\obj\Debug\NewDataTypes.csprojResolveAssemblyReference.cache

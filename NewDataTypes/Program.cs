@@ -279,14 +279,5 @@ namespace NewDataTypes
             return result;
         }
     }
-    public class Program{
-        public static void Main(string[] args)
-        {
-            Fraction f = new Fraction(2, 1);
-            Fraction f2 = new Fraction(1, 2);
-            Fraction f3 = f / 0.5;
-            Console.WriteLine(f < f2);
-           
-        }
-    }
+    
 }
